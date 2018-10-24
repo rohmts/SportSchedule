@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kotlin Sport</string>
+    <string name="main_title">Premier League</string>
+    <string name="tablayout_next_match">Next Match</string>
+    <string name="tablayout_last_match">Last Match</string>
+    <string name="null_string">-</string>
+    <string name="vs">vs</string>
+    <string name="detail_home_team_name">Home team</string>
+    <string name="detail_away_team_name">Away team</string>
+    <string name="detail_goals">Goals</string>
+    <string name="detail_shots">Shots</string>
+    <string name="detail_lineups">Lineups</string>
+    <string name="detail_goalkeeper">Goalkeeper</string>
+    <string name="detail_defense">Defense</string>
+    <string name="detail_midfield">Midfield</string>
+    <string name="detail_forward">Forward</string>
+    <string name="detail_substitutes">Substitutes</string>
+</resources>
